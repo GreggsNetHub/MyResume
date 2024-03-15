@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for viewing this template!
 
 Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://greggstechub.com/free-html-greggs-my-resume/
+Author: greggstechub.com
+License: https://greggstechub.com/license/
